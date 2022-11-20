@@ -5,7 +5,7 @@ Uses monte carlo simulations to plan for emergencies and retirement
 ---
 
 ## Technologies
-
+Jupyter
 
 ---
 
